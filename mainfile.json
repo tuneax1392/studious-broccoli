@@ -1,0 +1,91 @@
+{ 
+   "version":"1",
+   "arrangement" : "random",
+   "workflows":[
+	  {
+         "guid":"5b14b6f0-4aab-11ec-9978-4f770ca42af4",
+         "version":2,
+         "url":"https://animate.adobe.com/an/Coachmark/22.0.2/5b14b6f0-4aab-11ec-9978-4f770ca42af4.zip",
+         "video":"",
+         "assets":[
+            "assets/Angelfish_main.ana",
+            "assets/Aquarium_Bg.ana"
+         ],
+         "previewSwf":"additionalfiles/fish.swf",
+         "previewImage":"additionalfiles/fish.png",
+         "useCaseIndex":1,
+         "stringtable":"stringtable.json"
+      },
+	  {
+         "guid":"87361bb0-4eda-11ec-b7eb-3395a9d6322d",
+         "version":2,
+         "url":"https://animate.adobe.com/an/Coachmark/22.0.2/87361bb0-4eda-11ec-b7eb-3395a9d6322d.zip",
+         "video":"",
+         "assets":[
+            
+         ],
+         "previewSwf":"additionalfiles/jellyfish.swf",
+         "previewImage":"additionalfiles/jellyfish.png",
+         "useCaseIndex":2,
+         "stringtable":"stringtable.json"
+      },
+
+      {
+		 "guid": "ad438660-7777-11ec-b0e0-cf8989250b56",
+		 "version": 4,
+		 "url": "https://animate.adobe.com/an/Coachmark/22.0.2/ad438660-7777-11ec-b0e0-cf8989250b56.zip",
+		 "video": "",
+		 "assets": [],
+		 "previewSwf": "additionalfiles/Bounce.swf",
+		 "previewImage": "additionalfiles/Bounce.png",
+		 "useCaseIndex": 3,
+		 "stringtable": "stringtable.json"
+      },
+
+      {
+		 "guid": "06380950-6ee3-11ec-b85e-59158a8e1b7f",
+		 "version": 5,
+		 "url": "https://animate.adobe.com/an/Coachmark/22.0.2/06380950-6ee3-11ec-b85e-59158a8e1b7f.zip",
+		 "video": "",
+		 "assets": [],
+		 "previewSwf": "additionalfiles/Stork.swf",
+		 "previewImage": "additionalfiles/Stork.png",
+		 "useCaseIndex": 4,
+		 "stringtable": "stringtable.json"
+      },
+	  
+      {
+         "guid":"2729a130-f295-11ea-81ae-f336446799c7",
+         "version":5,
+         "url":"https://animate.adobe.com/an/Coachmark/22.0.2/2729a130-f295-11ea-81ae-f336446799c7.zip",
+         "video":"",
+         "assets":[
+            "assets/Grey Sky-png.ana",
+            "assets/Running Pig.ana"
+         ],
+         "previewSwf":"additionalfiles/PigRun.swf",
+         "previewImage":"additionalfiles/PigRun.png",
+         "useCaseIndex":5,
+         "stringtable":"stringtable.json"
+      },
+	  
+      {
+         "guid":"24521e00-cb13-11ea-b352-53dd530ad68b",
+         "version":6,
+         "url":"https://animate.adobe.com/an/Coachmark/22.0.2/24521e00-cb13-11ea-b352-53dd530ad68b.zip",
+         "video":"",
+         "assets":[
+         ],
+         "previewSwf":"additionalfiles/DollAnimation.swf",
+         "previewImage":"additionalfiles/DollAnimation_450_288.png",
+         "useCaseIndex":6,
+         "stringtable":"stringtable.json"
+      }	  
+	  
+	  
+	  
+	  
+	  
+	  
+   ]
+}
